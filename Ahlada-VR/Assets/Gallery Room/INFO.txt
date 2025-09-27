@@ -1,0 +1,7 @@
+The package contains a collection of 26 low poly models to create your own realistic & modular Gallery Room.
+More Info:
+	Prefabs: 26
+	Max Texture Resolution: 4K
+	Max Vertices per model: 3.500
+	Materials: All materials use Unity's Build-in Shaders
+	Coliders: All prefabs have mesh coliders
