@@ -4128,7 +4128,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa3e2b5ea6c7c0840ab0043d55eae92e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _sourceTexture: {fileID: 2800000, guid: 247d587ef705ee845a6d24b4d0cd5f09, type: 3}
+  _sourceTexture: {fileID: 2800000, guid: fb1fdb0bddeb6d445a2f2cd0cd9660c5, type: 3}
 --- !u!1001 &152405215
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13162,6 +13162,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2455711654808853570, guid: beb4e2871579447497fe41dfb108e2cd,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.226
       objectReference: {fileID: 0}
     - target: {fileID: 4266640295717640279, guid: beb4e2871579447497fe41dfb108e2cd,
         type: 3}
@@ -43792,8 +43797,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 97e435da6264dc4489f1a90f1098d0a7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skipSceneName: Shiva-Tutorial
-  exploreSceneName: 
+  skipSceneName: Shiva-Main
+  exploreSceneName: Shiva-Main
 --- !u!114 &1678236294
 MonoBehaviour:
   m_ObjectHideFlags: 0

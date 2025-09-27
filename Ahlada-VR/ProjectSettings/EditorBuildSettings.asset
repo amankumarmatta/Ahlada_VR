@@ -5,15 +5,24 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Intro.unity
     guid: de44c9a3a0d8a864c982d4413a57562f
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Main.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Tutorial.unity
-    guid: 245e58ec188a20848ad3188ba1a70038
+    guid: 50f5c9560aade074cb82c90906cfd697
+  - enabled: 1
+    path: Assets/Scenes/Shiva-Intro.unity
+    guid: c55e3d870d3c0e042b6148a370866a9d
+  - enabled: 1
+    path: Assets/Scenes/Shiva-Tutorial.unity
+    guid: 0f78f7c949a584149a63de29b8de87a9
+  - enabled: 1
+    path: Assets/Scenes/Shiva-Main.unity
+    guid: 7f7f83fb88916d94bb2bd84388838a29
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: c321862ffe8fb63449c5882ceeed9d42,
       type: 2}
@@ -21,3 +30,4 @@ EditorBuildSettings:
       type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: f536dab2828d18442ad6af723e1bf70c,
       type: 2}
+  m_UseUCBPForAssetBundles: 0
