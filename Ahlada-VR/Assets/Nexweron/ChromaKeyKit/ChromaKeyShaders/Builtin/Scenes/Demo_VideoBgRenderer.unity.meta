@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e407e90b7e4f3b44f9f0138b6859665d
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71684
+  packageName: Chroma Key Kit
+  packageVersion: 3.0
+  assetPath: Assets/Nexweron/ChromaKeyKit/ChromaKeyShaders/Builtin/Scenes/Demo_VideoBgRenderer.unity
+  uploadId: 559600

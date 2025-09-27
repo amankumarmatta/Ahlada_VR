@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: fdaa57263fad4935b5377051bf7d0f1b
+timeCreated: 1666290881
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71684
+  packageName: Chroma Key Kit
+  packageVersion: 3.0
+  assetPath: Assets/Nexweron/Common/Shaders/Builtin/ChromaKey/ChromaKey.hlsl
+  uploadId: 559600

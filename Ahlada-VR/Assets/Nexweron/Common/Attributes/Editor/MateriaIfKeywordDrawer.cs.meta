@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 302ad67ef81395d4aa0123c1ee9ba69b
+timeCreated: 1666272291
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71684
+  packageName: Chroma Key Kit
+  packageVersion: 3.0
+  assetPath: Assets/Nexweron/Common/Attributes/Editor/MateriaIfKeywordDrawer.cs
+  uploadId: 559600

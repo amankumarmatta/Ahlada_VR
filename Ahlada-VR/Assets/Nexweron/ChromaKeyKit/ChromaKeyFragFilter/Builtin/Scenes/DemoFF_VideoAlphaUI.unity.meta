@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1d6729c9cc06e0642a43cf56876ac78f
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71684
+  packageName: Chroma Key Kit
+  packageVersion: 3.0
+  assetPath: Assets/Nexweron/ChromaKeyKit/ChromaKeyFragFilter/Builtin/Scenes/DemoFF_VideoAlphaUI.unity
+  uploadId: 559600

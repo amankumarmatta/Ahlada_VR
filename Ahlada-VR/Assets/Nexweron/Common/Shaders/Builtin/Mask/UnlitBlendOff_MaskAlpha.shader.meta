@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5d814a5d23651354f89713c33297ff41
+timeCreated: 1465491710
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71684
+  packageName: Chroma Key Kit
+  packageVersion: 3.0
+  assetPath: Assets/Nexweron/Common/Shaders/Builtin/Mask/UnlitBlendOff_MaskAlpha.shader
+  uploadId: 559600

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 47e17f656a7897143be1c526563d65f4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71684
+  packageName: Chroma Key Kit
+  packageVersion: 3.0
+  assetPath: Assets/Nexweron/TargetRender/Base/RawImageTarget.cs
+  uploadId: 559600

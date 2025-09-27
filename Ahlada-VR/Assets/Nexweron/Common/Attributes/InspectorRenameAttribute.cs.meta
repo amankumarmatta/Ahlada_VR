@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 420554a3a96e18348aa4dc9bca617651
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71684
+  packageName: Chroma Key Kit
+  packageVersion: 3.0
+  assetPath: Assets/Nexweron/Common/Attributes/InspectorRenameAttribute.cs
+  uploadId: 559600

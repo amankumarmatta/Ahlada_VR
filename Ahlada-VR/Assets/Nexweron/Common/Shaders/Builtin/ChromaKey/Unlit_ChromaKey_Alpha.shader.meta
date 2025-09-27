@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 506f3998310e9c3408c3b5b47bf71112
+timeCreated: 1465923777
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71684
+  packageName: Chroma Key Kit
+  packageVersion: 3.0
+  assetPath: Assets/Nexweron/Common/Shaders/Builtin/ChromaKey/Unlit_ChromaKey_Alpha.shader
+  uploadId: 559600

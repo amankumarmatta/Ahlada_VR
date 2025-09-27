@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e4d0e3f39c91dac4eb0e2fba7c0adf50
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71684
+  packageName: Chroma Key Kit
+  packageVersion: 3.0
+  assetPath: Assets/Nexweron/Common/Shaders/Builtin/Lut/Unlit_Lut3D.shader
+  uploadId: 559600

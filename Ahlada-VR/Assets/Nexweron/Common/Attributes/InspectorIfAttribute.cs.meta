@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e0517d17671de5f44843dd97cb0fb99d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71684
+  packageName: Chroma Key Kit
+  packageVersion: 3.0
+  assetPath: Assets/Nexweron/Common/Attributes/InspectorIfAttribute.cs
+  uploadId: 559600

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d6e7eede2a231c44593545af0b3ebf03
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71684
+  packageName: Chroma Key Kit
+  packageVersion: 3.0
+  assetPath: Assets/Nexweron/Common/Shaders/Builtin/ChromaKey/Diffuse_ChromaKey_Bg.shader
+  uploadId: 559600

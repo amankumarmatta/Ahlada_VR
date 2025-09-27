@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c08ea3ae49007344ba2a2fea4a5dfeea
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71684
+  packageName: Chroma Key Kit
+  packageVersion: 3.0
+  assetPath: Assets/Nexweron/ChromaKeyKit/ChromaKeyShaders/Builtin/Materials/GirlHairstyle_ChromaKey_B.mat
+  uploadId: 559600

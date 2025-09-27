@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f92b848050d2cd643be771442bc28df9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71684
+  packageName: Chroma Key Kit
+  packageVersion: 3.0
+  assetPath: Assets/Nexweron/ChromaKeyKit/ChromaKeyShaders/Builtin/Materials/Guy_ChromaKey.mat
+  uploadId: 559600

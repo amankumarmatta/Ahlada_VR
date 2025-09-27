@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6fe4454f8d6a6a64391e1888c006a773
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71684
+  packageName: Chroma Key Kit
+  packageVersion: 3.0
+  assetPath: Assets/Nexweron/ChromaKeyKit/ChromaKeyShaders/Builtin/Scenes/Demo_WebCamRenderer.unity
+  uploadId: 559600

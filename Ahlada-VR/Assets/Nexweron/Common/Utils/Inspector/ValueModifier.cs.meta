@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9fabe78a970fa0d4d9e253dee8ec68f6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71684
+  packageName: Chroma Key Kit
+  packageVersion: 3.0
+  assetPath: Assets/Nexweron/Common/Utils/Inspector/ValueModifier.cs
+  uploadId: 559600

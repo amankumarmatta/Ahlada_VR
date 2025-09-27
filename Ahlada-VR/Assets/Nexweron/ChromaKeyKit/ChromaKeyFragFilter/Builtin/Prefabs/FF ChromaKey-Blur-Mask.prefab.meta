@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7fc6ec5b90416754eaf6257d4916d508
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71684
+  packageName: Chroma Key Kit
+  packageVersion: 3.0
+  assetPath: Assets/Nexweron/ChromaKeyKit/ChromaKeyFragFilter/Builtin/Prefabs/FF
+    ChromaKey-Blur-Mask.prefab
+  uploadId: 559600

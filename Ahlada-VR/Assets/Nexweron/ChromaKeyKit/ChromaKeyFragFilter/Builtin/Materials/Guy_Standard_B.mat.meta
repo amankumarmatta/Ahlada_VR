@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a3aa1899aaa8d2f49aecd7106cd981f0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71684
+  packageName: Chroma Key Kit
+  packageVersion: 3.0
+  assetPath: Assets/Nexweron/ChromaKeyKit/ChromaKeyFragFilter/Builtin/Materials/Guy_Standard_B.mat
+  uploadId: 559600

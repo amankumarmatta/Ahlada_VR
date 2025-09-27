@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3bdf5f8661d5dc4488dcc3ec0993a040
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71684
+  packageName: Chroma Key Kit
+  packageVersion: 3.0
+  assetPath: Assets/Nexweron/ChromaKeyKit/ChromaKeyFragFilter/Builtin/Scenes/DemoFF_VideoBgRenderer.unity
+  uploadId: 559600

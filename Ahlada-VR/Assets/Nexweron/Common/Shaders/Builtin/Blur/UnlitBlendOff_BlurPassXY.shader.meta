@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2e9479e7d54803e4bb70dbfb20d09c1e
+timeCreated: 1465923777
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71684
+  packageName: Chroma Key Kit
+  packageVersion: 3.0
+  assetPath: Assets/Nexweron/Common/Shaders/Builtin/Blur/UnlitBlendOff_BlurPassXY.shader
+  uploadId: 559600

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ba36300094b31864aadd93b9ad2e54f5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71684
+  packageName: Chroma Key Kit
+  packageVersion: 3.0
+  assetPath: Assets/Nexweron/TargetRender/Base/TargetRenderBase.cs
+  uploadId: 559600

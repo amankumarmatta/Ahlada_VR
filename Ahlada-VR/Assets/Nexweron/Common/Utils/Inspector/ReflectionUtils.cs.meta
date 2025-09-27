@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bf5703081799ab640b0921e463cc57e5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71684
+  packageName: Chroma Key Kit
+  packageVersion: 3.0
+  assetPath: Assets/Nexweron/Common/Utils/Inspector/ReflectionUtils.cs
+  uploadId: 559600

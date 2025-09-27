@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c675f71c7cfd2de49a105bdc6f828308
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71684
+  packageName: Chroma Key Kit
+  packageVersion: 3.0
+  assetPath: Assets/Nexweron/ChromaKeyKit/ChromaKeyFragFilter/Builtin/Scenes/DemoFF_WebCamUI.unity
+  uploadId: 559600

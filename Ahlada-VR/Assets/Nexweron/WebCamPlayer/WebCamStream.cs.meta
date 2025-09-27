@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0e044869336409b468cf3d8fabcb9e21
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 71684
+  packageName: Chroma Key Kit
+  packageVersion: 3.0
+  assetPath: Assets/Nexweron/WebCamPlayer/WebCamStream.cs
+  uploadId: 559600
