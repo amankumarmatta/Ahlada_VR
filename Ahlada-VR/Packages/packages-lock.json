@@ -19,15 +19,6 @@
       },
       "url": "https://packages.unity.com"
     },
-    "com.unity.cinemachine": {
-      "version": "2.10.4",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.test-framework": "1.1.31"
-      },
-      "url": "https://packages.unity.com"
-    },
     "com.unity.cloud.gltfast": {
       "version": "6.13.1",
       "depth": 0,
@@ -75,6 +66,15 @@
         "com.unity.xr.oculus": "4.5.2",
         "com.unity.xr.openxr": "1.15.1"
       }
+    },
+    "com.unity.ide.rider": {
+      "version": "3.0.38",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ext.nunit": "1.0.6"
+      },
+      "url": "https://packages.unity.com"
     },
     "com.unity.ide.visualstudio": {
       "version": "2.0.23",
