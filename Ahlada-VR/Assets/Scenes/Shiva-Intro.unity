@@ -44226,7 +44226,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 97e435da6264dc4489f1a90f1098d0a7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skipSceneName: Shiva-Tutorial
+  skipSceneName: Theater
   exploreSceneName: Shiva-Tutorial
 --- !u!114 &1678236294
 MonoBehaviour:
@@ -44598,7 +44598,7 @@ MonoBehaviour:
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
-    m_HighlightedSprite: {fileID: 21300000, guid: dd36782a82215a340bdf9b43051b8705,
+    m_HighlightedSprite: {fileID: 21300000, guid: 471738759a080be4a97caa3fe638544e,
       type: 3}
     m_PressedSprite: {fileID: 0}
     m_SelectedSprite: {fileID: 0}
@@ -44646,7 +44646,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 29bf9e01acd1796498b4a134ca30644c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: feb564ef12b69534b8440e266d1715b3, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
