@@ -1515,7 +1515,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e322c1d0c16b914d81d891f14777b84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  openBtn: {fileID: 0}
+  openBtn: {fileID: 1185724591}
   triggerParameter: Open
   animator: {fileID: 24582720}
 --- !u!1001 &26351578
@@ -24688,7 +24688,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e322c1d0c16b914d81d891f14777b84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  openBtn: {fileID: 1868168864}
+  openBtn: {fileID: 1824699329}
   triggerParameter: Open
   animator: {fileID: 401586016}
 --- !u!1 &404469347
@@ -25004,7 +25004,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e322c1d0c16b914d81d891f14777b84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  openBtn: {fileID: 0}
+  openBtn: {fileID: 1651162433}
   triggerParameter: Open
   animator: {fileID: 406113190}
 --- !u!1 &407733282
@@ -42001,7 +42001,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e322c1d0c16b914d81d891f14777b84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  openBtn: {fileID: 0}
+  openBtn: {fileID: 761041972}
   triggerParameter: Open
   animator: {fileID: 680469510}
 --- !u!1001 &683606870
@@ -48908,7 +48908,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e322c1d0c16b914d81d891f14777b84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  openBtn: {fileID: 0}
+  openBtn: {fileID: 714441805}
   triggerParameter: Open
   animator: {fileID: 792043248}
 --- !u!1 &796609037
@@ -58607,7 +58607,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e322c1d0c16b914d81d891f14777b84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  openBtn: {fileID: 0}
+  openBtn: {fileID: 2038278324}
   triggerParameter: Open
   animator: {fileID: 942090391}
 --- !u!1001 &946900604
@@ -86523,7 +86523,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e322c1d0c16b914d81d891f14777b84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  openBtn: {fileID: 0}
+  openBtn: {fileID: 2133288108}
   triggerParameter: Open
   animator: {fileID: 1436800958}
 --- !u!1 &1442233602
@@ -93496,7 +93496,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e322c1d0c16b914d81d891f14777b84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  openBtn: {fileID: 0}
+  openBtn: {fileID: 1558426910}
   triggerParameter: Open
   animator: {fileID: 1544519715}
 --- !u!1 &1545216817
@@ -98937,6 +98937,10 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 1642962576}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: d7ff49d3c3128ac4aa80cf12ee96c38e,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1642962577}
   m_SourcePrefab: {fileID: 100100000, guid: d7ff49d3c3128ac4aa80cf12ee96c38e, type: 3}
 --- !u!4 &1642962574 stripped
 Transform:
@@ -98972,6 +98976,21 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &1642962577
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1642962575}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e322c1d0c16b914d81d891f14777b84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  openBtn: {fileID: 1695899337}
+  triggerParameter: Open
+  animator: {fileID: 1642962576}
 --- !u!1 &1643237952
 GameObject:
   m_ObjectHideFlags: 0
@@ -124035,7 +124054,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e322c1d0c16b914d81d891f14777b84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  openBtn: {fileID: 0}
+  openBtn: {fileID: 177520362}
   triggerParameter: Open
   animator: {fileID: 2101333497}
 --- !u!1 &2101435545
